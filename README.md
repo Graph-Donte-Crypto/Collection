@@ -1,2 +1,32 @@
 # Collection
 Коллекция интересных вещей, полезные и/или забавные 
+
+- https://roadmap.sh - роадмапы развития по разным технологиями
+- https://github.com/Wilfred/difftastic - git diff здорового человека
+- https://pgtune.leopard.in.ua - заменить стандартные настройки postgresql на нормальные
+- https://poorsql.com - форматирование sql
+- https://cheatsheets.zip - если не знаешь как работать с X, то нужно подрубать читы
+- https://www.shutterencoder.com - моя любимая обёртка на ffmpeg
+- https://omatsuri.app - небольшие полезности для web разработки
+- https://theuselessweb.com - перейти на случайный забавный сайт в интернете
+- https://www.realtimecolors.com - прототипирование цветов для сайта
+- https://beforeiplay.com - что нужно знать про игру, прежде чем в неё играть
+- https://anthonyhobday.com - про дизайн, принципы и т.д.
+  - В частности https://anthonyhobday.com/sideprojects/saferules - правила, которые было бы хорошо соблюдать при дизайне
+- https://do.nginxconfig.io - я вам запрещаю писать nginx конфиги руками
+- https://github.com/sherlock-project/sherlock - пробивка username в публичных местах
+- https://github.com/zyedidia/micro - GNU Nano, только чуть поудобнее
+- https://regex101.com - дебажим и проверяем регексы
+- https://www.shellcheck.net - проверь свой *sh скрипт
+- https://explainshell.com - и разбери каждую команду в *sh скрипте на то, что она делает
+- https://http.cat / https://http.dog - картинки вместо просто http ответа
+- https://arxiv.org - научные статьи. Все
+- https://excalidraw.com - простая онлайн доска
+- https://github.com/microsoft/PowerToys - должна быть предустановлена на каждой винде
+- CLI утилиты:
+  - fd
+  - netcat
+  - taskwarrior
+  - bat
+  - tldr
+  - 
