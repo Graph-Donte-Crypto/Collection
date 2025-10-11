@@ -25,6 +25,7 @@
 - https://github.com/microsoft/PowerToys - должна быть предустановлена на каждой винде
 - https://www.getpaint.net - нормальный редактор изображений, достаточно интуитивно понятен чтобы делать +- сложные вещи просто
 - https://github.com/ClickHouse/ClickHouse - лучшая на данный момент OLAP бд, которую не требует танцев с бубном чтобы она хорошо работала
+- https://github.com/getsentry/sentry - для мониторинга must have, можно использовать и свой инстанс, и облачный
 - CLI утилиты:
   - fd
   - netcat
