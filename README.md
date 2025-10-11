@@ -26,7 +26,10 @@
 - https://www.getpaint.net - нормальный редактор изображений, достаточно интуитивно понятен чтобы делать +- сложные вещи просто
 - https://github.com/ClickHouse/ClickHouse - лучшая на данный момент OLAP бд, которую не требует танцев с бубном чтобы она хорошо работала
 - https://github.com/getsentry/sentry - для мониторинга must have, можно использовать и свой инстанс, и облачный
-- https://github.com/PowerShell/PowerShell - must have инструмент. Вся мощь .NET в виде CLI. Объектный подход из мира python в shell среде 
+- https://github.com/PowerShell/PowerShell - must have инструмент. Вся мощь .NET в виде CLI. Объектный подход из мира python в shell среде
+- https://github.com/dbeaver/dbeaver - database tool который поддерживает множество баз данных. Очень удобно иметь одну программу, которая может подключиться ко всем видам бд и даже перекинуть данные между ними
+- https://github.com/obsproject/obs-studio - лучшая тула для записи видео
+- https://github.com/astral-sh/uv - лучший пакетный менеджер для python
 - CLI утилиты:
   - fd
   - netcat
