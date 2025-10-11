@@ -23,6 +23,7 @@
 - https://arxiv.org - научные статьи. Все
 - https://excalidraw.com - простая онлайн доска
 - https://github.com/microsoft/PowerToys - должна быть предустановлена на каждой винде
+- https://www.getpaint.net - нормальный редактор изображений, достаточно интуитивно понятен чтобы делать +- сложные вещи просто
 - CLI утилиты:
   - fd
   - netcat
