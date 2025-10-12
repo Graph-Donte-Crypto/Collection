@@ -30,6 +30,7 @@
 - https://github.com/dbeaver/dbeaver - database tool который поддерживает множество баз данных. Очень удобно иметь одну программу, которая может подключиться ко всем видам бд и даже перекинуть данные между ними
 - https://github.com/obsproject/obs-studio - лучшая тула для записи видео
 - https://github.com/astral-sh/uv - лучший пакетный менеджер для python
+- https://rustdesk.com - замена для rdp/teamviewer
 - CLI утилиты:
   - fd
   - netcat
