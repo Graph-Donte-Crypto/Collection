@@ -31,6 +31,7 @@
 - https://github.com/obsproject/obs-studio - лучшая тула для записи видео
 - https://github.com/astral-sh/uv - лучший пакетный менеджер для python
 - https://rustdesk.com - замена для rdp/teamviewer
+- https://github.com/sherlock-project/sherlock - пробивка никнеймов в интернете
 - CLI утилиты:
   - fd
   - netcat
